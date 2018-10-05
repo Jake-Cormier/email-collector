@@ -1,0 +1,24 @@
+.navbar .navbar-brand {
+    color: rgba(255,255,255, .85);
+  font-size: 1rem;
+  padding-top: .45rem;
+  
+}
+
+.jumbotron {
+  background:  url('https://ableton-production.imgix.net/tours/live/header-perform.jpg?auto=format&fit=crop&fm=jpg&ixjsv=1.1.3&w=650')center;
+ background-size: cover;
+  
+    
+}
+
+.btn, .active {
+  transition: .4s;
+  
+}
+
+.card{
+  height: 32.5rem;
+  
+}
+
